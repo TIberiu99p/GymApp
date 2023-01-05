@@ -1,14 +1,21 @@
 GYM APP made in C++
 
-It has the following functionalities:
--tracks your personal records (PRs) for each lift: squat, bench and deadlift
--logs for you to record your workouts and track your progress
--offers tips and exercises to help you improve your form and lift more weight
--calculates your one-rep max (1RM) based on the weights and reps you've lifted
--provide a personalized workout plan to help you reach your goals(still needs some work)
--has a command-line interface 
+IT HAS THE FOLLOWING FUNCTIONALITIES SO FAR: 
+
+    Tracks your personal records (PRs) for each lift: squat, bench and deadlift.
+ 
+    Logs for you to record your workouts and track your progress. 
+ 
+    Offers tips and exercises to help you improve your form and lift more weight.
+ 
+    Calculates your one-rep max (1RM) based on the weights and reps you've lifted.
+ 
+    Provide a personalized workout plan to help you reach your goals(still needs some work).
+ 
+    Has a command-line interface.
 
 TO BE ADDED IN THE FUTURE:
+
     Add a feature that allows the user to view the personal records for a specific lift, along with the form tips and assistance exercises for that lift. This could be done by adding a new command to the command-line interface and implementing a new member function in the RecordsTracker class.
 
     Add a feature that allows the user to filter the workout log by lift name, date, or weight lifted. This could be done by adding a new command to the command-line interface and implementing a new member function in the RecordsTracker class.
